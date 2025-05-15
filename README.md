@@ -1,5 +1,3 @@
-# CRUD Operation React
-
 # ⚙️ CRUD Operation React Application
 
 This repository contains a **React** application demonstrating basic CRUD (Create, Read, Update, Delete) operations.  
